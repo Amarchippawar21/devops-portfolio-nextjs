@@ -160,7 +160,7 @@ export default function Hero() {
 
 </motion.div>
           <a
-            href="/resume.pdf"
+            href="/resume/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-cyan-500 hover:bg-cyan-600 hover:shadow-[0_0_35px_rgba(34,211,238,0.8)] px-7 py-3 rounded-xl text-black font-semibold transition-all duration-300 hover:scale-110"
