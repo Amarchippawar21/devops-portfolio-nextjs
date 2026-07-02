@@ -95,8 +95,8 @@ export default function Hero() {
             <Image
               src="/images/profile.png"
               alt="Amar Chippawar"
-              width={190}
-              height={190}
+              width={150}
+              height={150}
               className="rounded-full border-4 border-cyan-400 object-cover shadow-[0_0_45px_rgba(34,211,238,0.7)] hover:scale-105 transition-all duration-500"
             />
 
